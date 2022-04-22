@@ -5,7 +5,7 @@ Github is a web-based platform used for version control. Git simplifies the proc
 ### How do I set up a GitHub repository?
 #### Create a repository
 1. In the upper-right corner of any page, use the drop-down menu, and select New repository.<br/>
-Type a short, memorable name for your repository.<br/>
+2. Type a short, memorable name for your repository.<br/>
 Optionally, add a description of your repository.<br/>
 Choose a repository visibility.<br/>
 Select Initialize this repository with a README.<br/>
