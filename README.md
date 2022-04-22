@@ -9,4 +9,4 @@ Github is a web-based platform used for version control. Git simplifies the proc
 3. Optionally, add a description of your repository.<br/>
 4. Choose a repository visibility.<br/>
 5. Select Initialize this repository with a README.<br/>
-Click Create repository.<br/>
+6. Click Create repository.<br/>
