@@ -8,5 +8,5 @@ In the upper-right corner of any page, use the drop-down menu, and select New re
 Type a short, memorable name for your repository.<br/>
 Optionally, add a description of your repository.<br/>
 Choose a repository visibility.<br/>
-Select Initialize this repository with a README.
+Select Initialize this repository with a README.<br/>
 Click Create repository.
